@@ -28,10 +28,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bladimirgr&theme=tokyonight&hide_border=false" alt="Bladimir's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=bladimirgr&theme=tokyonight&hide_border=false" alt="Bladimir's GitHub Streak" />
-</div>
-
+  <img src="https://ghstats.dev/api/card?bladimirgr=octocat" alt="GitHub Stats Card" />
 <br>
 
 <div align="center">
