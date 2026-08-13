@@ -9,6 +9,13 @@
 * 🔧 Apasionado por la **arquitectura de software**, el aprendizaje estructurado y la escritura de **código limpio** sin lagunas técnicas.
 * 🌱 Actualmente enfocado en desarrollar soluciones modernas y robustas.
 
+
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/bladimirgr" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
 ## 💻 Tech Stack
 
 <div align="center">
