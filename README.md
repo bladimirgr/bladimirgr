@@ -40,7 +40,7 @@
 <div align="center">
   <img src="https://ghstats.dev/api/card?username=bladimirgr&theme=midnight&hide_border=true" alt="GitHub Stats Card" />
   <br>
-  <img src="https://ghstats.dev/api/langs?username=bladimirgr&theme=midnight&layout=donut" alt="Top Languages" />
+  <!-- <img src="https://ghstats.dev/api/langs?username=bladimirgr&theme=midnight&layout=donut" alt="Top Languages" /> -->
 </div>
 
 ### 📈 Contribution Graph
