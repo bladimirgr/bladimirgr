@@ -28,12 +28,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://ghstats.dev/api/card?bladimirgr=octocat" alt="GitHub Stats Card" />
+  <img src="https://ghstats.dev/api/card?username=octocat&theme=midnight&hide_border=true" alt="GitHub Stats Card" />
 <br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bladimirgr&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
-</div>
 
 ## 🏆 Trophies
 
