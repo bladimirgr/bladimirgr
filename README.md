@@ -38,11 +38,17 @@
 </div>
 
 
-## 🏆 Trophies
+### 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bladimirgr&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
-</div>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=asdasd&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
+### 💭 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
 
 ---
 <div align="center">
