@@ -28,7 +28,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://ghstats.dev/api/card?username=octocat&theme=midnight&hide_border=true" alt="GitHub Stats Card" />
+  <img src="https://ghstats.dev/api/card?bladimirgr=octocat&theme=midnight&hide_border=true" alt="GitHub Stats Card" />
 <br>
 
 ## 🏆 Trophies
