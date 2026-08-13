@@ -3,6 +3,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1572B6&center=true&vCenter=true&width=500&lines=Ingeniero+de+Sistemas;Desarrollador+Web;Frontend+%26+Backend+Developer;Clean+Code+Advocate" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=bladimirgr&icon=0&color=1572B6&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  </a>
+</div>
+
 ## 💫 About Me
 * 💻 **Ingeniero de Sistemas | Desarrollador Web**
 * 🚀 Más de **3 años** construyendo interfaces frontend optimizadas y escalables.
@@ -37,7 +43,6 @@
   <img src="https://ghstats.dev/api/langs?username=bladimirgr&theme=midnight&layout=donut" alt="Top Languages" />
 </div>
 
-
 ### 📈 Contribution Graph
 
 <p align="center">
@@ -49,10 +54,3 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
-
----
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=bladimirgr&icon=0&color=1572B6&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  </a>
-</div>
