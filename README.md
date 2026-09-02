@@ -20,9 +20,7 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/bladimirgr" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
-
-<p align="left">
+  &nbsp;&nbsp;
   <a href="https://curriculum-vitae-seven-dusky.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Curriculum-ACE1AF?style=for-the-badge&logo=linkedin&logoColor=white" alt="Curriculum" /></a>
 </p>
 
